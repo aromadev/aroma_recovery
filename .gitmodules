@@ -1,0 +1,30 @@
+[submodule "android/system/core"]
+	path = android/system/core
+	url = https://github.com/CyanogenMod/android_system_core.git
+[submodule "android/system/extras"]
+	path = android/system/extras
+	url = https://github.com/CyanogenMod/android_system_extras.git
+[submodule "android/external/e2fsprogs"]
+	path = android/external/e2fsprogs
+	url = https://github.com/CyanogenMod/android_external_e2fsprogs.git
+[submodule "android/external/squashfs-tools"]
+	path = android/external/squashfs-tools
+	url = https://android.googlesource.com/platform/external/squashfs-tools
+[submodule "android/external/libselinux"]
+	path = android/external/libselinux
+	url = https://github.com/CyanogenMod/android_external_libselinux.git
+[submodule "android/external/pcre"]
+	path = android/external/pcre
+	url = https://github.com/CyanogenMod/android_external_pcre.git
+[submodule "android/external/zlib"]
+	path = android/external/zlib
+	url = https://github.com/CyanogenMod/android_external_zlib.git
+[submodule "android/external/kernel-headers"]
+	path = android/external/kernel-headers
+	url = https://android.googlesource.com/platform/external/kernel-headers
+[submodule "android/external/lzma"]
+	path = android/external/lzma
+	url = https://github.com/CyanogenMod/android_external_lzma.git
+[submodule "android/external/safe-iop"]
+	path = android/external/safe-iop
+	url = https://android.googlesource.com/platform/external/safe-iop
